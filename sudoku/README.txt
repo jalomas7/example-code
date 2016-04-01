@@ -1,4 +1,4 @@
-this is a sudoku solver, heavily documented.
+this is a sudoku solver written in C++, heavily documented.
 contains:
 
 	sudoku.cpp--solves board files
