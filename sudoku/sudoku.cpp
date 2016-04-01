@@ -372,6 +372,7 @@ else{
 int main(int argc, char* argv[]){
 	if(argc<2){
 		cerr << "no file given, terminating\n";
+		cerr << "Usage: ./sudoku boardfile.txt\n";
 		return -1;
 	}
 	string s = argv[1];
@@ -381,6 +382,7 @@ int main(int argc, char* argv[]){
 	
 	if(found == string::npos){
 		cerr << "not a .txt file, terminating\n";
+		cerr << "Usage: ./sudoku boardfile.txt\n";
 		return -1;
 	}
 
