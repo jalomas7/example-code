@@ -16,3 +16,5 @@ board files must adhere to the following:
 
 	2) if a x,y co-ordinate pair appears multiple times, the last instance
 	   is what will be calculated
+
+The sudoku solver takes a .txt file as input from the command line, execute without arguments to see example usage
