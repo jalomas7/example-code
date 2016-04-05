@@ -8,7 +8,7 @@ contains:
 	README.txt--this file
 
 board files must adhere to the following:
-	1) three integer values per line
+	1) three space-separated integer values per line
 		-x-value (0-8)
 		-y-value (0-8)
 		-place-value (1-9)
