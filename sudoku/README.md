@@ -1,4 +1,4 @@
-this is a sudoku solver written in C++, heavily documented.
+This is a sudoku solver written in C++, heavily documented.
 contains:
 
 	sudoku.cpp--solves board files
@@ -8,6 +8,7 @@ contains:
 	README.txt--this file
 
 board files must adhere to the following:
+
 	1) three space-separated integer values per line
 		-x-value (0-8)
 		-y-value (0-8)
